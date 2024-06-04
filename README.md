@@ -6,6 +6,8 @@ Pixiv Facebook API is a nodejs application for posting random pixiv images to fa
 
 1. Create an application on [Facebook developer](https://developers.facebook.com/apps/), generate your facebook token [here](https://developers.facebook.com/tools/explorer/) and paste it into .env
 
+Tutorial on how to get never expire token: https://docs.squiz.net/funnelback/docs/latest/build/data-sources/facebook/facebook-page-access-token.html
+
 ```bash
 echo 'TOKEN=[YOUR TOKEN]' > .env
 ```
