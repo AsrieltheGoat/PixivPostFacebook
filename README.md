@@ -1,6 +1,6 @@
-# Incorrect quotes generator
+# Pixiv Facebook API
 
-Incorrect quotes generator is a nodejs application for posting quotes to facebook feed that use [facebook-node-sdk](https://www.npmjs.com/package/facebook-node-sdk)
+Pixiv Facebook API is a nodejs application for posting random pixiv images to facebook page that use [fb](https://www.npmjs.com/package/fb)
 
 ## Installation
 
